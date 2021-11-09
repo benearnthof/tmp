@@ -9,3 +9,9 @@ It should also be possible to use "embedding trajectories" where we embed a slid
 we may be able to use adaptive context windows to obtain trajectories of standardized length
 
 https://www.fit.vutbr.cz/~imikolov/rnnlm/thesis.pdf first mention of gradient clipping in the literature as "Truncating Gradients"
+
+test for inductive priors of nns by passing through randomly init network once and evaluating on test data: 
+  no training will take place, the initial scores should differ significantly from random scores if the architecture makes sense
+  intuition: random projections of data should end up in similar regions of latent space if they have similar features 
+    this may be expanded using "neural path kernels" to assign labels, so the entire path of the image through the layers would be of interest.
+  problem with this: Architectures that are more flexible, read: have weaker inductive priors, will generalize better and would be weeded out by this approach because they may have worse initial scores but would perform better after training. 
