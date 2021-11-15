@@ -15,3 +15,6 @@ test for inductive priors of nns by passing through randomly init network once a
   intuition: random projections of data should end up in similar regions of latent space if they have similar features 
     this may be expanded using "neural path kernels" to assign labels, so the entire path of the image through the layers would be of interest.
   problem with this: Architectures that are more flexible, read: have weaker inductive priors, will generalize better and would be weeded out by this approach because they may have worse initial scores but would perform better after training. 
+
+On the equivalence between Neural Network and Support Vector Machine https://arxiv.org/pdf/2111.06063.pdf
+  Also touches on Neural Tangent Kernels
