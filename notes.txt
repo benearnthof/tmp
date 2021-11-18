@@ -20,3 +20,5 @@ test for inductive priors of nns by passing through randomly init network once a
 
 On the equivalence between Neural Network and Support Vector Machine https://arxiv.org/pdf/2111.06063.pdf
   Also touches on Neural Tangent Kernels
+
+http://www.catb.org/jargon/html/ 
