@@ -22,3 +22,6 @@ On the equivalence between Neural Network and Support Vector Machine https://arx
   Also touches on Neural Tangent Kernels
 
 http://www.catb.org/jargon/html/ 
+
+Hopfield Networks & Transformers Blogpost 
+https://ml-jku.github.io/hopfield-layers/
