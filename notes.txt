@@ -31,3 +31,4 @@ http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html
 
 full sky cmb estimation with nns
 https://arxiv.org/pdf/2102.04327.pdf
+https://www.astro.umd.edu/~miller/teaching/astr422/lecture21.pdf
