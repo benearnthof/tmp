@@ -28,3 +28,6 @@ https://ml-jku.github.io/hopfield-layers/
 
 bayesian neural networks: 
 http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html
+
+full sky cmb estimation with nns
+https://arxiv.org/pdf/2102.04327.pdf
