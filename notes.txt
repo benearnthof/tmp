@@ -25,3 +25,6 @@ http://www.catb.org/jargon/html/
 
 Hopfield Networks & Transformers Blogpost 
 https://ml-jku.github.io/hopfield-layers/
+
+bayesian neural networks: 
+http://www.cs.ox.ac.uk/people/yarin.gal/website/blog_3d801aa532c1ce.html
