@@ -33,3 +33,8 @@ full sky cmb estimation with nns
 https://arxiv.org/pdf/2102.04327.pdf
 https://www.astro.umd.edu/~miller/teaching/astr422/lecture21.pdf
 https://plus.maths.org/content/cosmic-oracle-2
+
+# contrastive embeddings based on mutual information maximization 
+https://arxiv.org/pdf/2009.12061.pdf
+# contrastive blog
+https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html
