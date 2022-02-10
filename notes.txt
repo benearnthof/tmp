@@ -38,3 +38,7 @@ https://plus.maths.org/content/cosmic-oracle-2
 https://arxiv.org/pdf/2009.12061.pdf
 # contrastive blog
 https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learning.html
+# neural ICDE for irregular time series 
+https://arxiv.org/pdf/2005.08926.pdf
+# on neural differential equations 
+https://arxiv.org/pdf/2202.02435.pdf
