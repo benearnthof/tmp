@@ -44,3 +44,5 @@ https://arxiv.org/pdf/2005.08926.pdf
 https://arxiv.org/pdf/2202.02435.pdf
 # unsupervised time series embedding
 https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf
+# deep time series clustering: a review
+https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjjuLa3wIH2AhWhwQIHHYTtDwkQFnoECB0QAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F10%2F23%2F3001%2Fpdf&usg=AOvVaw27nENBBhPlq3tpb2iKG5Sf
