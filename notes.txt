@@ -42,3 +42,5 @@ https://lilianweng.github.io/lil-log/2021/05/31/contrastive-representation-learn
 https://arxiv.org/pdf/2005.08926.pdf
 # on neural differential equations 
 https://arxiv.org/pdf/2202.02435.pdf
+# unsupervised time series embedding
+https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf
