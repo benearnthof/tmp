@@ -46,3 +46,6 @@ https://arxiv.org/pdf/2202.02435.pdf
 https://proceedings.neurips.cc/paper/2019/file/53c6de78244e9f528eb3e1cda69699bb-Paper.pdf
 # deep time series clustering: a review
 https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjjuLa3wIH2AhWhwQIHHYTtDwkQFnoECB0QAQ&url=https%3A%2F%2Fwww.mdpi.com%2F2079-9292%2F10%2F23%2F3001%2Fpdf&usg=AOvVaw27nENBBhPlq3tpb2iKG5Sf
+
+# A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition 
+https://arxiv.org/pdf/2106.14373.pdf
