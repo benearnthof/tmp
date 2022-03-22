@@ -49,3 +49,9 @@ https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&ved=2ahUKEwjjuLa3
 
 # A Span-Based Model for Joint Overlapped and Discontinuous Named Entity Recognition 
 https://arxiv.org/pdf/2106.14373.pdf
+
+# parametric umap for learning embeddings 
+https://github.com/lmcinnes/umap/issues/831
+# latent and generative models of animal vocalizations 
+https://github.com/timsainb/avgn_paper
+
