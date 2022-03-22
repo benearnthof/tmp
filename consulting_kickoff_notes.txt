@@ -1,0 +1,100 @@
+Consultingprojekt Kickoff Meeting: 
+
+Projektrahmen - Praktische Analyse: 
+Zwei vierschiedene interessante Ansätze: 
+Die Lösung des Problems formal besser einzugrenzen 
+	Gibt es eine andere Lösung als Bayesianische Analyse? 
+Approximieren des Inferenzprozesses unter einfachen Rahmenbedingungen
+	Generiere Karten die den statistischen Eigenschaften entsprechen 
+	Schätze mit diesen Karten die Parameter der unterliegenden Modelle
+		Generiere Daten mit unterschiedlichen startbedingungen 
+		Vergleiche Modelle auf den verschiednen Daten
+	Modelliere skewness der dichteverteilung
+	Extremfall: Simuliere Gravitationsinteraktion zur Simulation von Daten
+	
+Verschiedene Inferenzmethoden: 
+	Modell für stationäre pdf
+	Deep Learning für parameterschätzung, problem: Interpretierbarkeit
+		CNNs etc. 
+	
+Erzeugung der Daten ist relativ schnell für die Simpelsten Fälle
+Einfache Modelle für die Parameter des Powerspectrums sind auch schon in Softwarepaketen implementiert. 
+
+Pixel in Karte: 
+	delta = Materiekontrast
+	p(delta | cosmologisches Modell) 
+	pixel sind nicht unabhängig voneinander 
+	=> Gesamtlikelihood wenn unabhängig einfach Produkt der pixellikelihoods
+	=> dieser Ansatz ist zu naiv, pixel sind natürlich nicht unabhängig 
+	
+Kontrast: Gaussmarkov vs Gaussfeld
+	diskret vs kontinuierlich 
+		kontinuierlich => partielle differentialgleichungen zur approximation
+	
+	zerlege karte mit FT in koeffizienten von spärischen harmonischen funktionen 
+	
+	Kosmologische Korrelationsfunktion nicht stetig fallend
+		klein auf kleinen skalen und klein auf großen skalen
+		
+Idee: INLA als approximation der Posteriori
+
+SARIM, Christopher Küster fragen
+	Kann gut mit großen Matrizen umgehen
+Fange erstmal mit dem reinen Gaussfeld an
+Option: Transformieren daten und guck ob es Gauss ist
+	"sufficient statistics" gruppe an der TUM
+	nehme an dass es ein lognormal feld ist 
+	Variational Inference
+	
+Interessant: Tradeoff zwischen Modellgebundenheit und Information die man aus dem Modell gewinnt
+
+Thomas Kneip: Quantilsregression => Schätze Transformation der Daten mit 
+
+Problem: Skalenabhängigkeit der Schätzung, Wir messen nicht direkt die Materiedichte an einem Punkt, sondern 
+die Materiedichte in einem gewissen Radius um den Punkt
+
+Tools für den Anfang: 
+	Datensimulation 
+	Parameterschätzung
+	Analyse des Powerspectrums
+	
+2 Spektren: 
+	3D powerspectrum
+	2D angular Powerspectrum 
+		2D ist von interesse, der rest ist analytisch verstanden
+	
+Dichtefeld in verschiedenen Abständen => Verschiedene Zeiten im Universum
+
+Simulation ist Auflösungsabhängig
+Lognormalfield ist aufwändiger zu simulieren aber in kleinerer Auflösung auch ausreichend schnell 
+12*2^n pixel, n >= 8 
+
+Interessant: Auflösung erhöhen und untersuchen wie die einzelnen Methoden skalieren
+
+Gedanke zum Schluss: 
+Gibt es eine Art "Hypothesentest" um zu untersuchen ob eine Likelihoodkarte mit "Likelihoodkarten" konsistent ist? 
+ML-Problem: Klassifikation
+
+Es kommt darauf an welche Parameter uns interessieren 
+
+Sind Parameter a priori abhängig voneinander? 
+Hängt vom Modell des Universums ab, kann man im Allgemeinen nicht testen. 
+
+Gibt es Einschränkungen für die Parameter? 
+	Hängt von Annahmen ab. 
+	Geometrie des Universums ist flach => Abhängigkeit zwischen dichte der Materie und Dunkler Materie
+	Es gibt Parameterkombinationen die nicht konsistent mit unserem Universum sind. 
+	
+
+Materiedichte des späteren Universums ist von zentralem Interesse
+
+Start: 
+Zugang zum Cluster
+Notebook ausprobieren 
+Simulationen verwenden 
+JupyterHub der Physiker, Cluster wird noch eingerichtet
+Computingcloud vom LRZ
+
+Modern Statistics of Cosmic Structure: Mittwoch 14 uhr an der Unisternwarte
+
+Nächstes Treffen: 08.04. 
