@@ -57,3 +57,4 @@ https://github.com/timsainb/avgn_paper
 
 Transcending space and time:
 fields.append({key: value['value'] if ent['fields'] else {} for ent in current_entities for key, value in zip(ent['fields'].keys(), ent['fields'].values())})
+https://www.gwern.net/docs/www/arxiv.org/320270c4aa17a57178db0d1d0ebd3fe51883cd24.pdf
