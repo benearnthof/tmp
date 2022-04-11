@@ -63,3 +63,5 @@ https://www.gwern.net/Clippy
 https://sci-hub.se/10.1016/j.cognition.2015.03.016
 # luss function for generative models
 https://arxiv.org/pdf/2006.15057.pdf
+
+http://cosmicpy.github.io/tutorials/gettingStarted.html
