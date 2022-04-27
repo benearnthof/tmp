@@ -71,3 +71,9 @@ https://arxiv.org/pdf/1907.12875.pdf
 
 # scattering networks to distinguish gaussian and nongaussian cmb data
 https://arxiv.org/pdf/2102.02828.pdf
+https://openreview.net/forum?id=bjy5Zb2fo2
+  they plan to make the code accessible to the public
+  implementation seems to be based on: 
+    https://arxiv.org/pdf/2010.11661.pdf
+    code is available on request 
+    
