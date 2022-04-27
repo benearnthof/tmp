@@ -68,3 +68,6 @@ http://cosmicpy.github.io/tutorials/gettingStarted.html
 
 # detailed description of pixel based likelihood for CMB analysis
 https://arxiv.org/pdf/1907.12875.pdf
+
+# scattering networks to distinguish gaussian and nongaussian cmb data
+https://arxiv.org/pdf/2102.02828.pdf
