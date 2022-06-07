@@ -81,3 +81,6 @@ https://openreview.net/forum?id=bjy5Zb2fo2
 
 # Link prediction with Subgraphs, Embeddings, and Attributes:
 https://towardsdatascience.com/seal-link-prediction-explained-6237919fe575
+
+Gaussian-log Gaussian convolution
+https://spectrum.library.concordia.ca/id/eprint/985833/1/Zhang_MA_F2019.pdf
