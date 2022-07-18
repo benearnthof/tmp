@@ -86,3 +86,6 @@ Gaussian-log Gaussian convolution
 https://spectrum.library.concordia.ca/id/eprint/985833/1/Zhang_MA_F2019.pdf
 cosmo param healpy
 https://www.aanda.org/articles/aa/full_html/2016/08/aa28572-16/aa28572-16.html
+
+Neural Netwrok Loss Landscapes: What do we know? 
+https://damueller.com/#/blog-post/NNLLs
